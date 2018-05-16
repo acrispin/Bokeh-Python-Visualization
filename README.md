@@ -14,3 +14,7 @@ open a command prompt, change to the directory containing `bokeh_app` and run
 and will automatically open the interactive dashboard in your browser at localhost:5006. 
 
 Any comments, suggestions, improvements are greatly appreciated!
+
+[Part I](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)   
+[Part II](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512)   
+[Part III](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)   
